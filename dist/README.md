@@ -1,0 +1,1 @@
+This folder contains the built output assets for the worker "todo-app-demo" generated at 2025-05-30T15:19:57.831Z.
